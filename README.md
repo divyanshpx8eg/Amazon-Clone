@@ -7,7 +7,7 @@ This repository contains the code for a basic layout of a website inspired by Am
 - CSS
 
 ### How to Use
-1. Clone the repository: `git clone https://github.com/username/repository.git`
+1. Clone the repository: `git clone https://github.com/divyanshpx8eg/Amazon-Clone.git`
 2. Open the `index.html` file in your web browser to view the website.
 
 Feel free to customize the code to suit your needs or use it as a template for your own projects.
